@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatNumericUpDownExample", "FlatNumericUpDownExample\FlatNumericUpDownExample.csproj", "{F8C94AE6-B4E0-40BF-92DF-5F3FBF063572}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{C66AEF45-4945-4116-A48F-B8E2F5E5A1E8}"
+	ProjectSection(SolutionItems) = preProject
+		FlatNumericUpDown.gif = FlatNumericUpDown.gif
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
